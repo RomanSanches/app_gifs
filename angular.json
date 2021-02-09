@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "giftsApp"
+  "defaultProject": "giftsApp",
+  "cli": {
+    "analytics": "fe9227dd-c31e-4dcb-a409-1b629e2a16e0"
+  }
 }
